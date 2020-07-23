@@ -1,6 +1,6 @@
 /!\ It has been a while since we lost the time and will to work on this project, so it has been archived.
 
-Feel free to fork it and proposed an adapted version, or to use [Wyam](https://wyam.io/), [Statiq.Web](https://statiq.dev/), [Jekyll in Windows](https://jekyllrb.com/docs/installation/windows/) or [any other static site generator](https://www.staticgen.com/).
+Feel free to fork it and propose an adapted version, or to use [Wyam](https://wyam.io/), [Statiq.Web](https://statiq.dev/), [Jekyll in Windows](https://jekyllrb.com/docs/installation/windows/) or [any other static site generator](https://www.staticgen.com/).
 
 ---
 [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/rp8nq03r4b7mdecf?svg=true)](https://ci.appveyor.com/project/laedit/pretzel)
